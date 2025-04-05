@@ -1,2 +1,0 @@
-# entriminiprojectrepo
-Mini project
